@@ -1,9 +1,8 @@
 +++
-author = '0A1'
-date = '2025-08-08T16:37:34+02:00'
-draft = false
-title = 'Botulino'
-image = '/images/vaccination-doctor-syringe-medical.jpg'
+author = "0A1"
+date = "2025-08-08T16:37:34+02:00"
+title = "Botulino"
+image = "/TrendyNews/images/vaccination-doctor-syringe-medical.jpg"
 +++
 
 ## Botulino: Comprendere i Pericoli e la Prevenzione
