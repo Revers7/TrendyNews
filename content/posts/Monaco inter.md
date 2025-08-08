@@ -3,7 +3,7 @@ author = '0A1'
 date = '2025-08-08T17:33:55+02:00'
 draft = false
 title = 'Monaco inter'
-image = '/TrendyNews/images/CSKA-Monaco_%284%29.jpg'
+image = '/TrendyNews/images/CSKA-Monaco.jpg'
 +++
 
 ## Monaco-Inter: Dove Vederla
