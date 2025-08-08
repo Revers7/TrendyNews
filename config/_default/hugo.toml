@@ -1,12 +1,12 @@
-baseurl = "https://example.com/" # Include trailing slash
-title = "Newsroom"
+baseurl = "https://revers7.github.io/TrendyNews/" # Include trailing slash
+title = "Trandy Newsroom"
 # this example loads the theme as hugo module
 # comment out line below, and uncomment the line after it if you prefer to load the theme normally
 theme = [
   "github.com/onweru/newsroom",
 ] # edit this if you'ld rather use a fork of this repo
 # theme = "newsroom"
-author = "Weru"
+author = "AR34"
 canonifyurls = true
 [pagination]
 disableAliases = false
